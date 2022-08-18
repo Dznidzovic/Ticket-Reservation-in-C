@@ -1,0 +1,16 @@
+Name:Micheal Jackson
+Sex:Male
+Age:28
+Line:Berlin|Budapest|14:30-17:30|
+Seatnumber:10
+---------------------------------
+
+Name:Joseph Stallin
+Sex:Female
+Age:30
+Line:Berlin|Budapest|14:30-17:30|
+Seatnumber:11
+---------------------------------
+
+
+
