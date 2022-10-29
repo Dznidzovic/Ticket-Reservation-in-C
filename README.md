@@ -7,3 +7,5 @@ Every input is covered in a way that user can't crash the program, and everythin
 
 Only the lines between Berlin Belgrade and Budapest are available now.
 You can add new lines through control panel.
+Use only the lines between Belgrade Berlin and Budapest, as only those have been covered in the files
+
